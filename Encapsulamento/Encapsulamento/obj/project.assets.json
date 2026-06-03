@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leona\\OneDrive\\Documentos\\Estudos\\Programação Orientada a Objetos\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
+      "projectUniqueName": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
       "projectName": "Encapsulamento",
-      "projectPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Estudos\\Programação Orientada a Objetos\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
+      "projectPath": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\Encapsulamento\\Encapsulamento\\Encapsulamento.csproj",
       "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leona\\OneDrive\\Documentos\\Estudos\\Programação Orientada a Objetos\\Encapsulamento\\Encapsulamento\\obj\\",
+      "outputPath": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\Encapsulamento\\Encapsulamento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
