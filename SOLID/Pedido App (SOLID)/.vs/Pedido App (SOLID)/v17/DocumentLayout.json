@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|c:\\users\\leona\\onedrive\\documentos\\github\\estudos\\poo\\pedido app (solid)\\pedido app (solid)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|solutionrelative:pedido app (solid)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|c:\\users\\leona\\onedrive\\documentos\\github\\estudos\\poo\\pedido app (solid)\\pedido app (solid)\\services\\percentagediscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|solutionrelative:pedido app (solid)\\services\\percentagediscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|c:\\users\\leona\\onedrive\\documentos\\github\\estudos\\poo\\pedido app (solid)\\pedido app (solid)\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|solutionrelative:pedido app (solid)\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|c:\\users\\leona\\onedrive\\documentos\\github\\estudos\\poo\\pedido app (solid)\\pedido app (solid)\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|solutionrelative:pedido app (solid)\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|c:\\users\\leona\\onedrive\\documentos\\github\\estudos\\poo\\pedido app (solid)\\pedido app (solid)\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|solutionrelative:pedido app (solid)\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|c:\\users\\leona\\onedrive\\documentos\\github\\estudos\\poo\\pedido app (solid)\\pedido app (solid)\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|solutionrelative:pedido app (solid)\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|c:\\users\\leona\\onedrive\\documentos\\github\\estudos\\poo\\pedido app (solid)\\pedido app (solid)\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|solutionrelative:pedido app (solid)\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|c:\\users\\leona\\onedrive\\documentos\\github\\estudos\\poo\\pedido app (solid)\\pedido app (solid)\\interfaces\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|solutionrelative:pedido app (solid)\\interfaces\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|c:\\users\\leona\\onedrive\\documentos\\github\\estudos\\poo\\pedido app (solid)\\pedido app (solid)\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|solutionrelative:pedido app (solid)\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|c:\\users\\leona\\onedrive\\documentos\\github\\estudos\\poo\\pedido app (solid)\\pedido app (solid)\\services\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|solutionrelative:pedido app (solid)\\services\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|c:\\users\\leona\\onedrive\\documentos\\github\\estudos\\poo\\pedido app (solid)\\pedido app (solid)\\services\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|solutionrelative:pedido app (solid)\\services\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|c:\\users\\leona\\onedrive\\documentos\\github\\estudos\\poo\\pedido app (solid)\\pedido app (solid)\\services\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0035F01C-1A88-4670-B729-1EC5F147AE07}|Pedido App (SOLID)\\Pedido App (SOLID).csproj|solutionrelative:pedido app (solid)\\services\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PercentageDiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Services\\PercentageDiscountService.cs",
+              "RelativeDocumentMoniker": "Pedido App (SOLID)\\Services\\PercentageDiscountService.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Services\\PercentageDiscountService.cs",
+              "RelativeToolTip": "Pedido App (SOLID)\\Services\\PercentageDiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:15:51.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmsNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Services\\SmsNotificationService.cs",
+              "RelativeDocumentMoniker": "Pedido App (SOLID)\\Services\\SmsNotificationService.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Services\\SmsNotificationService.cs",
+              "RelativeToolTip": "Pedido App (SOLID)\\Services\\SmsNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:16:29.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Program.cs",
+              "RelativeDocumentMoniker": "Pedido App (SOLID)\\Program.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Program.cs",
+              "RelativeToolTip": "Pedido App (SOLID)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:12:22.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\README.md",
+              "RelativeDocumentMoniker": "Pedido App (SOLID)\\README.md",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\README.md",
+              "RelativeToolTip": "Pedido App (SOLID)\\README.md",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAADABAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-11T15:21:55.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Interfaces\\IDiscountService.cs",
+              "RelativeDocumentMoniker": "Pedido App (SOLID)\\Interfaces\\IDiscountService.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Interfaces\\IDiscountService.cs",
+              "RelativeToolTip": "Pedido App (SOLID)\\Interfaces\\IDiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:15:01.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Pedido App (SOLID)\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "Pedido App (SOLID)\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:15:20.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Pedido App (SOLID)\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Pedido App (SOLID)\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:15:37.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Pedido App (SOLID)\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Models\\Order.cs",
+              "RelativeToolTip": "Pedido App (SOLID)\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:14:36.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Pedido App (SOLID)\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Models\\Product.cs",
+              "RelativeToolTip": "Pedido App (SOLID)\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:14:16.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Pedido App (SOLID)\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Pedido App (SOLID)\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:16:52.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Services\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "Pedido App (SOLID)\\Services\\OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Services\\OrderProcessor.cs",
+              "RelativeToolTip": "Pedido App (SOLID)\\Services\\OrderProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:19:03.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Services\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "Pedido App (SOLID)\\Services\\EmailNotificationService.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documentos\\GitHub\\Estudos\\POO\\Pedido App (SOLID)\\Pedido App (SOLID)\\Services\\EmailNotificationService.cs",
+              "RelativeToolTip": "Pedido App (SOLID)\\Services\\EmailNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:16:15.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

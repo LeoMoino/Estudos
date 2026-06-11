@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\bin\Debug\net8.0\Pedido App.exe
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\bin\Debug\net8.0\Pedido App.deps.json
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\bin\Debug\net8.0\Pedido App.runtimeconfig.json
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\bin\Debug\net8.0\Pedido App.dll
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\bin\Debug\net8.0\Pedido App.pdb
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App.sourcelink.json
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App.dll
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\refint\Pedido App.dll
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App.pdb
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\ref\Pedido App.dll

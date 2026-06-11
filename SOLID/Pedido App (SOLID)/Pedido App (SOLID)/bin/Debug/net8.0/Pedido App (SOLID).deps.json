@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pedido App (SOLID)/1.0.0": {
+        "runtime": {
+          "Pedido App (SOLID).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pedido App (SOLID)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

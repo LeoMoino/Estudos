@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\bin\Debug\net8.0\Pedido App (SOLID).exe
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\bin\Debug\net8.0\Pedido App (SOLID).deps.json
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\bin\Debug\net8.0\Pedido App (SOLID).runtimeconfig.json
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\bin\Debug\net8.0\Pedido App (SOLID).dll
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\bin\Debug\net8.0\Pedido App (SOLID).pdb
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App (SOLID).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App (SOLID).AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App (SOLID).AssemblyInfo.cs
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App (SOLID).csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App (SOLID).sourcelink.json
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App (SOLID).dll
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\refint\Pedido App (SOLID).dll
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App (SOLID).pdb
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\Pedido App (SOLID).genruntimeconfig.cache
+C:\Users\leona\OneDrive\Documentos\GitHub\Estudos\POO\Pedido App (SOLID)\Pedido App (SOLID)\obj\Debug\net8.0\ref\Pedido App (SOLID).dll
